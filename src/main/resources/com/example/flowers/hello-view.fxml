@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="385.0" prefWidth="689.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.flowers.HelloController">
+   <children>
+      <ImageView fx:id="imgCrocus" fitHeight="147.0" fitWidth="157.0" layoutX="497.0" layoutY="73.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@crocus.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgGeranium" fitHeight="141.0" fitWidth="188.0" layoutX="272.0" layoutY="73.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@geranium.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgViolet" fitHeight="141.0" fitWidth="200.0" layoutX="34.0" layoutY="73.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@violet.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnMasha" layoutX="257.0" layoutY="283.0" mnemonicParsing="false" text="Маша" />
+      <Button fx:id="btnTanya" layoutX="390.0" layoutY="283.0" mnemonicParsing="false" text="Таня" />
+      <Button fx:id="btnDay" layoutX="325.0" layoutY="331.0" mnemonicParsing="false" text="День" />
+   </children>
+</AnchorPane>

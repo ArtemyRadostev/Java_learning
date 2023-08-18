@@ -1,1 +1,3 @@
 javarush.com/groups/java-developer - статьи для нач. уровня
+
+javarush.com/groups/posts/1975-kak-ustroen-mekhanizm-pereopredelenija-metodov- - переопределение методов ( @Override )

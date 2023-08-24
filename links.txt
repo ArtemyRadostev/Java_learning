@@ -1,3 +1,5 @@
-javarush.com/groups/java-developer - статьи для нач. уровня
+https://javarush.com/groups/java-developer - статьи для нач. уровня
 
-javarush.com/groups/posts/1975-kak-ustroen-mekhanizm-pereopredelenija-metodov- - переопределение методов ( @Override )
+https://javarush.com/groups/posts/1975-kak-ustroen-mekhanizm-pereopredelenija-metodov- - переопределение методов ( @Override )
+
+https://itvdn.com/ru/blog/article/250-questions-java - теоретические вопросы на собеседовании

@@ -5,3 +5,6 @@ https://javarush.com/groups/posts/1975-kak-ustroen-mekhanizm-pereopredelenija-me
 https://itvdn.com/ru/blog/article/250-questions-java - теоретические вопросы на собеседовании;
 
 https://intellekt-a.com/java-junior-test - тест (вызывает стойкое чувство скепсиса);
+
+
+https://tproger.ru/articles/7-prakticheskih-zadanij-s-sobesedovanija-na-poziciju-junior-java-developer/ - практика чтения кода и внимательности;

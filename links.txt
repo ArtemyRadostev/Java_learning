@@ -6,5 +6,6 @@ https://itvdn.com/ru/blog/article/250-questions-java - теоретически�
 
 https://intellekt-a.com/java-junior-test - тест (вызывает стойкое чувство скепсиса);
 
+https://javarush.com/groups/posts/549-java-zadachi-s-podvokhom-privet-sobesedovanija - и снова задачи;
 
 https://tproger.ru/articles/7-prakticheskih-zadanij-s-sobesedovanija-na-poziciju-junior-java-developer/ - практика чтения кода и внимательности;
